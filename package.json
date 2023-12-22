@@ -10,6 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.56.0"
+    "@types/node": "^20.10.5",
+    "axios": "^1.6.2",
+    "eslint": "^8.56.0",
+    "geoip-lite": "^1.4.9",
+    "ip2location-nodejs": "^9.6.1",
+    "js-user-country": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.3.3"
   }
 }
